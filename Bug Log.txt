@@ -1,0 +1,4 @@
+---- Known Issues ----
+- Getting attacked while against a wall and monster moving toward player pushed player into wall
+- Attacking monsters at the edge of their boundary pushes them outside and they move freely on x axis
+- Goblins in low levels un-balanced
